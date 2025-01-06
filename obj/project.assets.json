@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fongj\\OneDrive\\Vanua Collective\\Vanua Collective.csproj",
+      "projectUniqueName": "C:\\Users\\fongj\\OneDrive\\Vanua Collective Project\\Vanua-Collection\\Vanua-Collection\\Vanua Collective.csproj",
       "projectName": "Vanua Collective",
-      "projectPath": "C:\\Users\\fongj\\OneDrive\\Vanua Collective\\Vanua Collective.csproj",
+      "projectPath": "C:\\Users\\fongj\\OneDrive\\Vanua Collective Project\\Vanua-Collection\\Vanua-Collection\\Vanua Collective.csproj",
       "packagesPath": "C:\\Users\\fongj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fongj\\OneDrive\\Vanua Collective\\obj\\",
+      "outputPath": "C:\\Users\\fongj\\OneDrive\\Vanua Collective Project\\Vanua-Collection\\Vanua-Collection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
