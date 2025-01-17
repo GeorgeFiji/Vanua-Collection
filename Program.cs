@@ -20,7 +20,6 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-//Just testing My github SkillsS
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
