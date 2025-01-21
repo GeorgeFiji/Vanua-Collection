@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ebbf93b97cc356cb11de102c05d47e2d9d7438")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93dc83c91ce1e53efa4ee605068603324c301a3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
