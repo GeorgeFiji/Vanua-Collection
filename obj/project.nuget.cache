@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRS68is+gLE=",
+  "dgSpecHash": "ovAj9DyGnQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fongj\\source\\repos\\GeorgeFiji\\Vanua-Collection\\Vanua Collective.csproj",
+  "projectFilePath": "C:\\Users\\fongj\\Desktop\\Vanua-Collection\\Vanua Collective.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fongj\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fongj\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

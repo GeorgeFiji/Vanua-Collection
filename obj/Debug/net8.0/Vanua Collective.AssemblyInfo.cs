@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93dc83c91ce1e53efa4ee605068603324c301a3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2c29e5156fa27633302186f0eda13745168f6e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vanua Collective")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
