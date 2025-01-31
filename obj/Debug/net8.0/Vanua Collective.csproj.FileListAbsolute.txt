@@ -1,0 +1,34 @@
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\appsettings.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.staticwebassets.runtime.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.staticwebassets.endpoints.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.exe
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.deps.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.runtimeconfig.json
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.dll
+C:\Users\fongj\OneDrive\Vanua Collective\bin\Debug\net8.0\Vanua Collective.pdb
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.AssemblyInfoInputs.cache
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.AssemblyInfo.cs
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.csproj.CoreCompileInputs.cache
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.RazorAssemblyInfo.cache
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.RazorAssemblyInfo.cs
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\scopedcss\bundle\Vanua Collective.styles.css
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\scopedcss\projectbundle\Vanua Collective.bundle.scp.css
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets\msbuild.Vanua Collective.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets\msbuild.Vanua Collective.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets\msbuild.build.Vanua Collective.props
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Vanua Collective.props
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Vanua Collective.props
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.dll
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\refint\Vanua Collective.dll
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.pdb
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\Vanua Collective.genruntimeconfig.cache
+C:\Users\fongj\OneDrive\Vanua Collective\obj\Debug\net8.0\ref\Vanua Collective.dll
